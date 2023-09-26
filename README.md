@@ -28,5 +28,3 @@ The script displays the processed image with rectangles indicating detected face
 ![git2](https://github.com/nourhenehanana/Eye-Glasses-Detection/assets/93352403/a724f812-f09a-4a05-8c7b-1c9ecdcff2a8)
 ![git3](https://github.com/nourhenehanana/Eye-Glasses-Detection/assets/93352403/9308bbc8-af27-4ad3-870e-7a5afc0ff5c7)
 
-![git3](https://github.com/nourhenehanana/Eye-Glasses-Detection/assets/93352403/576101d0-44b1-4d13-86ab-1a856859df78)
-![git2](https://github.com/nourhenehanana/Eye-Glasses-Detection/assets/93352403/9b202a61-40a9-49a2-99c7-a22cb5a968e2)
